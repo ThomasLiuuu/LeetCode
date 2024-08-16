@@ -5,7 +5,7 @@ The DataFrame should have two columns, student_id and age, and be in the same or
 The result format is in the following example.
 
 ## Difficulty 
-$${\color{green}Easy}$$
+${\color{green}Easy}$
 
 ## Solution
 Convert student_data into DataFrame using Pandas built-in function, and name the columns student_id and age
