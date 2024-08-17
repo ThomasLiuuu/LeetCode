@@ -8,6 +8,7 @@ Table: `Customer`
 | id          | int     |
 | name        | varchar |
 | referee_id  | int     |
+
 In SQL, id is the primary key column for this table.
 Each row of this table indicates the id of a customer, their name, and the id of the customer who referred them.
  
@@ -22,7 +23,7 @@ The result format is in the following example.
 Easy
 
 ## Solution
-Select product_id column, with condition referee_id not equal to 2 including referee_id being NULL
+Select name column, with condition referee_id not equal to 2 including referee_id being NULL
 
 ## Link
 [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)
