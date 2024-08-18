@@ -2,12 +2,12 @@
 
 ## Pandas
 [2877. Create a DataFrame from List](https://github.com/ThomasLiuuu/LeetCode/tree/master/Pandas/2877.%20Create%20a%20DataFrame%20from%20List)  
-[2878. Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  
-[2879. Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  
-[2880. Select Data](https://leetcode.com/problems/select-data/description/?envType=study-plan-v2&envId=introduction-to-pandas&lang=pythondata)  
+[2878. Get the Size of a DataFrame](https://github.com/ThomasLiuuu/LeetCode/tree/master/Pandas/2878.%20Get%20the%20Size%20of%20a%20DataFrame)  
+[2879. Display the First Three Rows](https://github.com/ThomasLiuuu/LeetCode/tree/master/Pandas/2879.%20Display%20the%20First%20Three%20Rows)  
+[2880. Select Data](https://github.com/ThomasLiuuu/LeetCode/tree/master/Pandas/2880.%20Select%20Data)  
 
 ## SQL
-[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)  
-[584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50)  
-[1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50)  
-[577. Employee Bonus](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50)
+[1757. Recyclable and Low Fat Products](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1757.%20Recyclable%20and%20Low%20Fat%20Products)  
+[584. Find Customer Referee](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/584.%20Find%20Customer%20Referee)  
+[1378. Replace Employee ID With The Unique Identifier](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier)  
+[577. Employee Bonus](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/577.%20Employee%20Bonus)
