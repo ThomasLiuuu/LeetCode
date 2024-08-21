@@ -10,4 +10,5 @@
 [1757. Recyclable and Low Fat Products](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1757.%20Recyclable%20and%20Low%20Fat%20Products)  
 [584. Find Customer Referee](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/584.%20Find%20Customer%20Referee)  
 [1378. Replace Employee ID With The Unique Identifier](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier)  
-[577. Employee Bonus](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/577.%20Employee%20Bonus)
+[577. Employee Bonus](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/577.%20Employee%20Bonus)  
+[1280. Students and Examinations](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1280.%20Students%20and%20Examinations)
