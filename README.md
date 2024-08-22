@@ -12,4 +12,4 @@
 [1378. Replace Employee ID With The Unique Identifier](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier)  
 [577. Employee Bonus](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/577.%20Employee%20Bonus)  
 [1280. Students and Examinations](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1280.%20Students%20and%20Examinations)  
-[570. Managers with at Least 5 Direct Reports](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/570.%20Managerrs%20with%20at%20Least%205%20Direct%20Reports)
+[570. Managers with at Least 5 Direct Reports](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports)
