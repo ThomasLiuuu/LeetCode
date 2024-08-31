@@ -16,6 +16,6 @@
 [1934. Confirmation Rate](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1934.%20Confirmation%20Rate)  
 [1211. Queries Quality and Percentage](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1211.%20Queries%20Quality%20and%20Percentage)  
 [1193. Monthly Transactions I](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1193.%20Monthly%20Transactions%20I)  
-[1174. Immediate Food Delivery II](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1174.%20Immediate%20Food%20Delivery20%II)  
-[550. Game Play Analysis IV](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/550.%20Game%20Play%20Analysis20%IV)  
+[1174. Immediate Food Delivery II](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1174.%20Immediate%20Food%20Delivery%20II)  
+[550. Game Play Analysis IV](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/550.%20Game%20Play%20Analysis%20IV)  
 [1045. Customers Who Bought All Products](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1045.%20Customers%20Who%20Bought%20All%20Products)
