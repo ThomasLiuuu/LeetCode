@@ -18,4 +18,10 @@
 [1193. Monthly Transactions I](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1193.%20Monthly%20Transactions%20I)  
 [1174. Immediate Food Delivery II](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1174.%20Immediate%20Food%20Delivery%20II)  
 [550. Game Play Analysis IV](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/550.%20Game%20Play%20Analysis%20IV)  
-[1045. Customers Who Bought All Products](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1045.%20Customers%20Who%20Bought%20All%20Products)
+[1045. Customers Who Bought All Products](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1045.%20Customers%20Who%20Bought%20All%20Products)  
+
+## Array
+[88. Merge Sorted Array](https://github.com/ThomasLiuuu/LeetCode/tree/master/Array/88.%20Merge%20Sorted%20Array)
+
+## Two Pointers
+[88. Merge Sorted Array](https://github.com/ThomasLiuuu/LeetCode/tree/master/Two%20Pointers/88.%20Merge%20Sorted%20Array)
