@@ -1,6 +1,6 @@
 # 570. Managers with at Least 5 Direct Reports
 
-## OverviewYour locationfood
+## Overview
 Table: `Employee`
 
 | Column Name | Type    |

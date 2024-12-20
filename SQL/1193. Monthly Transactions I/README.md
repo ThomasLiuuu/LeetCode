@@ -1,6 +1,6 @@
 # 1193. Monthly Transactions I
 
-## OverviewYour locationfood
+## Overview
 Table: `Transactions`
 
 | Column Name   | Type    |
