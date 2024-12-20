@@ -1,6 +1,6 @@
 # 1174. Immediate Food Delivery II
 
-## OverviewYour locationfood
+## Overview
 Table: `Delivery`
 
 | Column Name                 | Type    |
