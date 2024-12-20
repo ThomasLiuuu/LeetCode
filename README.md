@@ -21,8 +21,11 @@
 [1045. Customers Who Bought All Products](https://github.com/ThomasLiuuu/LeetCode/tree/master/SQL/1045.%20Customers%20Who%20Bought%20All%20Products)  
 
 ## Array
+[26. Remove Duplicates from Sorted Array](https://github.com/ThomasLiuuu/LeetCode/tree/master/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array)  
 [27. Romove Element](https://github.com/ThomasLiuuu/LeetCode/tree/master/Array/27.%20Remove%20Element)  
 [88. Merge Sorted Array](https://github.com/ThomasLiuuu/LeetCode/tree/master/Array/88.%20Merge%20Sorted%20Array)
 
 ## Two Pointers
+[26. Remove Duplicates from Sorted Array](https://github.com/ThomasLiuuu/LeetCode/tree/master/Two%20Pointers/26.%20Remove%20Duplicates%20from%20Sorted%20Array)  
+[27. Romove Element](https://github.com/ThomasLiuuu/LeetCode/tree/master/Two%20Pointers/27.%20Remove%20Element)  
 [88. Merge Sorted Array](https://github.com/ThomasLiuuu/LeetCode/tree/master/Two%20Pointers/88.%20Merge%20Sorted%20Array)
